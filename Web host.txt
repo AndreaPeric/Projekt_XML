@@ -1,0 +1,1 @@
+Projekt se pokreće sa xampp-om,a online server je http://andreaprojekt.000webhostapp.com./index.html.
