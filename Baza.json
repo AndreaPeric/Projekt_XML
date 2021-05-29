@@ -1,0 +1,44 @@
+{
+    "Jela" : [
+        {
+            "Jelo":"Lisnati jastučić sa sirom",
+            "Cijena":"24 KN",
+            "Opis":"Ukusno tijesto koje je punjeno sa par vrsta sira."
+        },
+        {
+            "Jelo":"Pita od šunke i slanine",
+            "Cijena":"28 KN",
+            "Opis":"Pita od dizanog tijesta sa šunkom, vrhnjem, jajima, mladim lukom."
+        },
+        {
+            "Jelo":"Mediteransa salata sa slanutkom",
+            "Cijena":"20 KN",
+            "Opis":"Osvježavajuća salata sa slanutkom, rajčicom, krastavcima, paprikom i sirom."
+        },
+        {
+            "Jelo":"Kremasta tjestenina s gljivama",
+            "Cijena":"35 KN",
+            "Opis":"Ukusna i kremasta tjestenina na bazi vrhnja i gljiva."
+        },
+        {
+            "Jelo":"Varivo s piletinom i sezonskim povrćem",
+            "Cijena":"40 KN",
+            "Opis":"Lagano varivo u kojem su piletina, češnjak, mrkva, paprika, celer i začini"
+        },
+        {
+            "Jelo":"Fajitas",
+            "Cijena":"30 KN",
+            "Opis":"Pileći fajitas s grahom i paprikama."
+        },
+        {
+            "Jelo":"Palačinke",
+            "Cijena":"20 KN",
+            "Opis":"Palačinke kojoj se dodaju dodaci po želji."
+        },
+        {
+            "Jelo":"Sladoled",
+            "Cijena":"12 KN",
+            "Opis":"Okusi: Jagoda, Limun, Čokolada, Pistacijo, Vanilija, Šumsko voće"
+        }
+    ]
+}
