@@ -104,12 +104,6 @@ main a:hover {
     border-bottom: 5px solid #FFCB05;
     padding-top: 2%;
 }
-h2.kategorija {
-    padding: 1% 0 1% 1%;
-    color:#f8c210;
-    border-bottom: 2px solid #ccc;
-}
-
 .jelo {
     border-bottom: 2px solid #ccc;
 }
@@ -227,12 +221,6 @@ img.dost {
 }
 .jelo {
     display:block;
-}
-.jelo-slika {
-    width: 100%;
-    height: auto;
-    margin: 0 auto;
-    margin-top: 2%;
 }
 .jelo-tekst {
     width: 94%;
