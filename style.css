@@ -104,6 +104,7 @@ main a:hover {
     border-bottom: 5px solid #FFCB05;
     padding-top: 2%;
 }
+
 .jelo {
     border-bottom: 2px solid #ccc;
 }
@@ -137,6 +138,8 @@ iframe {
 .info p {
     font-size: 18px;
     padding: 5px;
+    word-break: break-all;
+    white-space: normal;
 
 }
 
@@ -187,8 +190,7 @@ img.dost {
 }
 
 
-
-@media only screen and (max-width:900px) {
+@media (max-width:900px) {
 	/**Navigacija**/
 header a,footer{
     text-align: center;
@@ -208,12 +210,28 @@ nav {
 nav li {
     width: 100%;
 }
+main {
+    margin-left: 0;
+}
+main h1 {
+    font-size: 22px;
+    padding: 0;
+    width: 100%;
+}
+h1.kontak {
+    font-size: 25px;
+    padding: 0;
+    width: 100%;
+}
 img.dost {
     float: none;
     width: 100%;
 }
 .dostava {
     width: 100%;
+}
+label.dostava {
+    font-size: 23px;
 }
 /**Meni**/
 .ponude h1 {
